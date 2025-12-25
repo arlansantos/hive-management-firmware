@@ -8,7 +8,7 @@ Este repositório contém **exclusivamente o código do firmware**, responsável
 
 ## 📌 Visão Geral
 
-O firmware é executado em um microcontrolador **ESP32-S3** e foi projetado para operar de forma autônoma em ambientes remotos, com foco em:
+O firmware é executado em um microcontrolador ESP32-S3 e foi desenvolvido na linguagem C/C++, utilizando o Arduino Framework por meio da Arduino IDE. O sistema foi projetado para operar de forma autônoma em ambientes remotos, com foco em:
 
 - Baixo consumo energético (*Deep Sleep*)
 - Coleta periódica de dados ambientais e de peso
